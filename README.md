@@ -1,2 +1,2 @@
-# hr_projects
-HR – Systems, Process &amp; Performance (PMS &amp; Automation Focus)
+# hr_project
+demonstrating projects for better opprtunities
